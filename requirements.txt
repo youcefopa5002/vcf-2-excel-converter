@@ -1,0 +1,5 @@
+Required libraries for the VCF to Excel Converter
+vobject>=0.9.6
+openpyxl>=3.1.2
+phonenumbers>=8.13.29
+chardet>=5.2.0
